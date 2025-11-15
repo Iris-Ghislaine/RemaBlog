@@ -10,7 +10,7 @@ import Footer from "@/components/layout/Footer/page";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Medium Clone",
+  title: "Rema Blog",
   description: "A publishing platform inspired by Medium",
 };
 
